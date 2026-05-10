@@ -1,0 +1,14 @@
+Algorithm                 Time (min)
+Bubble Sort               0.341379
+Selection Sort            0.240557
+Insertion Sort            0.164165
+Merge Sort                0.450912
+Quick Sort                0.222356
+Heap Sort                 0.380362
+Shell Sort                0.165543
+Counting Sort             SKIPPED
+Radix Sort                0.754281
+Bucket Sort               0.185645
+Tim Sort                  0.021820
+Comb Sort                 0.238060
+Bitonic Sort              1.562726
